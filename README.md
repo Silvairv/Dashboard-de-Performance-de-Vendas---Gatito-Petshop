@@ -35,4 +35,11 @@ Faça o download do arquivo .pbix presente neste repositório.
 
 Abra o arquivo no Power BI Desktop.
 
-Caso queira ver apenas os resultados, consulte a imagem Dashboard Gatito.png na pasta de imagens.
+Caso queira ver apenas os resultados, consulte a imagem Dashboard Gatito.png.
+
+💡 Insights de Negócio (Data Insights)
+A partir da análise do dashboard, foram identificados pontos críticos para a estratégia do Petshop:
+
+Oportunidade Geográfica: Os bairros de Itaquera e Guaianases concentram mais de 60% do faturamento total.A empresa poderia intensificar ações de fidelização nestas regiões e estudar a viabilidade de abertura de uma unidade física ou ponto de retirada para reduzir custos logísticos.
+
+Perfil do Consumidor: Com 54,78% das vendas realizadas pelo público feminino, há uma oportunidade clara para personalização de campanhas e curadoria de produtos específicos para este segmento.
