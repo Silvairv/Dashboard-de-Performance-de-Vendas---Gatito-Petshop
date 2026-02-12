@@ -1,5 +1,6 @@
 # Dashboard-de-Performance-de-Vendas---Gatito-Petshop
 Este projeto consiste em um dashboard interativo desenvolvido no Power BI para análise de vendas e faturamento de um Petshop. O objetivo é fornecer uma visão clara sobre o desempenho financeiro, comportamento do consumidor por gênero e distribuição geográfica das vendas em bairros de São Paulo.
+<img width="1497" height="824" alt="Dashboard Gatito" src="https://github.com/user-attachments/assets/d3f06c1c-e875-4a8c-82bc-25aaeb9b2670" />
 
 🚀 Tecnologias Utilizadas
 Power BI: Construção das visualizações e dashboards interativos.
